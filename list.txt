@@ -5,3 +5,6 @@ gloves
 buckets
 duster bins
 brushes
+broom
+toilet paper
+
